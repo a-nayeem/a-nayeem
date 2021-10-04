@@ -1,13 +1,21 @@
-### Hi there 👋
-I am a MSc Computer Science student at BRAC University Bangladesh. 
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+**Thanks for visiting my page.** 
+<br />
+<a href="https://twitter.com/abirnaym">
+  <img align="left" alt="Nayeem | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/a-nayeem/">
+  <img align="left" alt="Nayeem's Linkedin" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=a-nayeem.a-nayeem)
+<br />
 
-- 👋 Hi, I’m @a-nayeem
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am Nayeem. Full stack developer and Machine Learning researcher from **Dhaka, Bangladesh**, currently living in **Dhaka**. I am studying MSc in Computer Science at BRAC University Bangladesh.
+
+<!-- - 👀 I’m interested in ...
+- 🌱 I’m currently learning Tensorflow
+- 📫 How to reach me ... -->
 
 **languages and tools:**  
 
