@@ -11,7 +11,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=a-nayeem.a-nayeem)
 <br />
 
-I am Nayeem. Full stack developer and Machine Learning researcher from **Dhaka, Bangladesh**, currently living in **Dhaka**. I am studying MSc in Computer Science at BRAC University Bangladesh.
+I am Nayeem. Entrepreneur, Cybersecurity Analyst and Machine Learning researcher from **Dhaka, Bangladesh**, currently living in **Dhaka**. I am studying MSc in Computer Science at BRAC University Bangladesh.
 
 <!-- - 👀 I’m interested in ...
 - 🌱 I’m currently learning Tensorflow
